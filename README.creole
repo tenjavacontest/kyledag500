@@ -1,7 +1,0 @@
-== TEMPLATE
-
-TEMPLATE <DESCRIPTION>
-
-=== Compiling
-
-Maven 3 is required to compile TEMPLATE
